@@ -51,4 +51,8 @@
     .bhero-section{
         background-position: 65% 0%;
     }
+    .contact-section form button{
+        margin: 0 auto !important;
+        margin-top: 2rem !important;
+    }
 }
