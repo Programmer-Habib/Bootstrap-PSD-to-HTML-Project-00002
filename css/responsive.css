@@ -51,6 +51,9 @@
     .bhero-section{
         background-position: 65% 0%;
     }
+    .contact-section form input{
+        width: 100% !important;
+    }
     .contact-section form button{
         margin: 0 auto !important;
         margin-top: 2rem !important;
